@@ -51,7 +51,7 @@
 
 ### 📫 Reach Me
 - 📸 Instagram: [@midallaarnold](https://instagram.com/midallaarnold)  
-- 🐦 Twitter: [@arnoldmidalla](https://twitter.com/arnoldmidalla)
+- 🐦 Twitter: [@midallaarnold](https://twitter.com/midallaarnold)
 - 📨 Mail: [My Mail](mailto:midallaarnold@gmail.com)
 
 ---
