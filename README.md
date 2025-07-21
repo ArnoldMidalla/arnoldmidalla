@@ -25,18 +25,18 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnoldmidalla&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arnoldmidalla&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmidalla&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arnoldmidalla&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnoldmidalla&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmidalla&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ### 🧩 Featured Projects
-- 📊 **[Halal Impact Result Page](https://github.com/ArnoldMidalla/Halal-results)
+- 📊 [Halal Impact Result Page](https://github.com/ArnoldMidalla/Halal-results)
   A simple React + Supabase interface for school result management.
   
-- 🧑‍💻 **[Portfolio (Temporary)](https://github.com/ArnoldMidalla/My-Portfolio)
+- 🧑‍💻 [Portfolio (Temporary)](https://github.com/ArnoldMidalla/My-Portfolio)
   A minimal and responsive portfolio showcasing my web & design skills.
 
 ---
