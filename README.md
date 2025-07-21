@@ -33,10 +33,10 @@
 ---
 
 ### 🧩 Featured Projects
-- 📊 **[Halal Impact Result Page](https://github.com/arnoldmidalla/halal-impact-result)**  
+- 📊 **[Halal Impact Result Page](https://github.com/ArnoldMidalla/Halal-results)
   A simple React + Supabase interface for school result management.
   
-- 🧑‍💻 **[Portfolio (Temporary)](https://github.com/arnoldmidalla/portfolio-temp)**  
+- 🧑‍💻 **[Portfolio (Temporary)](https://github.com/ArnoldMidalla/My-Portfolio)
   A minimal and responsive portfolio showcasing my web & design skills.
 
 ---
@@ -49,16 +49,10 @@
 
 ---
 
-### 😄 A Little Fun
-> 💭 *If it can be imagined, it can be designed. If it can be designed, it can be built.*  
-> 🧪 *Work in progress = progress in work.*
-
----
-
 ### 📫 Reach Me
-- 📸 Instagram: [@arnoldmidalla](https://instagram.com/arnoldmidalla)  
-- 🐦 Twitter: [@arnoldmidalla](https://twitter.com/arnoldmidalla)  
-- 💼 LinkedIn: [Arnold Midalla](https://linkedin.com/in/arnoldmidalla)
+- 📸 Instagram: [@midallaarnold](https://instagram.com/midallaarnold)  
+- 🐦 Twitter: [@arnoldmidalla](https://twitter.com/arnoldmidalla)
+- 📨 Mail: [My Mail](mailto:midallaarnold@gmail.com)
 
 ---
 
