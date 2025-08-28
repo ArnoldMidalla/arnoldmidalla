@@ -26,7 +26,7 @@
 </p>
 
 ---
-
+<!--
 ### 🧩 Featured Projects
 - 📊 [Halal Impact Result Page](https://github.com/ArnoldMidalla/Halal-results)
   A simple React + Supabase interface for school result management.
@@ -35,7 +35,7 @@
   A minimal and responsive portfolio showcasing my web & design skills.
 
 ---
-
+-->
 ### 🎯 Currently Exploring
 - React Native + NativeWind for mobile apps  
 - Tailwind UI design systems  
