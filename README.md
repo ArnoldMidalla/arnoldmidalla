@@ -21,7 +21,7 @@
 ### 🔥 GitHub Stats
 <p align="center">
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=arnoldmidalla&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arnoldmidalla&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=arnoldmidalla&show_icons=true&theme=tokyonight&hide_border=true"/>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmidalla&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
